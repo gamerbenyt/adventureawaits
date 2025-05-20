@@ -1,0 +1,6 @@
+Patch Notes:
+- Added Multiple Performance/Optimization Mods
+- Added Terralith, Yung's Bridges, and Many Other World-gen Mods
+- Removed Xaero's Minimap and World Map
+- Added Crash Assistant, Not Enough Crashes, and Others
+- Disabled LazyDFU
