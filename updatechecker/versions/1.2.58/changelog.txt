@@ -1,6 +1,6 @@
 ## MASSIVE OVERHAUL!
-Adventure Awaits has had a full rework. <br>
-Many mods are no longer included in updates from now on.
-To prevent world corruption, please backup your worlds before playing. <br>
+Adventure Awaits has had a full rework. <br />
+Many mods are no longer included in updates from now on. <br />
+To prevent world corruption, please backup your worlds before playing. <br />
 If you would like to use your old worlds, please visit our [Converting Guide](https://github.com/gamerbenyt/adventureawaits/guides/converting-guide.md)
 or revert to 1.1.83, our latest pre-overhaul release.
