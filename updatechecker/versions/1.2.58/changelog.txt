@@ -6,4 +6,4 @@ IF YOU WOULD LIKE TO USE YOUR OLD WORLDS, PLEASE VISIT OUR CONVERTING GUIDE,
 OR REVERT TO 1.1.83, OUR LATEST RELEASE BEFORE THE UPDATE!
 
 If you would like to use your old worlds, please visit our
-[Converting Guide](https://github.com/gamerbenyt/adventureawaits/guides/converting-guide.txt)
+[Converting Guide](https://github.com/gamerbenyt/adventureawaits/guides/converting-guide.md)
