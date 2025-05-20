@@ -1,1 +1,1 @@
-## Check out the [Wiki](ee) to learn how
+## Check out the [Wiki](https://github.com/gamerbenyt/adventureawaits/wiki/Guides) to learn how
