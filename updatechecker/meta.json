@@ -7,9 +7,7 @@
         "releasedAt": 1747540800000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "modrinth": "https://modrinth.com/modpack/adventureawaits/version/1.1.0"
             }
         }
     },
@@ -18,9 +16,7 @@
         "releasedAt": 1747574700000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "modrinth": "https://modrinth.com/modpack/adventureawaits/version/1.1.83"
             }
         }
     },
@@ -29,9 +25,7 @@
         "releasedAt": 1747747500000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/",
-                "curseforge": "https://curseforge.com/",
-                "generic": "https://example.com/"
+                "modrinth": "https://modrinth.com/modpack/adventureawaits/version/1.2.58"
             }
         }
     }
