@@ -1,0 +1,2 @@
+Patch Notes:
+- Added an update checker for the pack
